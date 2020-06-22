@@ -1,2 +1,0 @@
-hello word one
-hello scala two
